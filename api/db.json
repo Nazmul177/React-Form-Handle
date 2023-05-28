@@ -1,0 +1,32 @@
+{
+  "developers": [
+    {
+      "id": 2,
+      "name": "Mamun Ali",
+      "age": 39,
+      "skill": "Laravel",
+      "photo": "https://aboutleaders.com/wp-content/uploads/2022/01/Transformation-Leaderhip-Traits.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shah Mohammod Sagir",
+      "age": 40,
+      "skill": "MERN Stack",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlWMuLleakAwDTPrekQDdPgmGTotnPGazE_Xf7oGzW9JIT5O7kiglhek_auzEYQNEXEs&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Habub",
+      "age": 49,
+      "skill": "Python",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzctMR9cpkyUXGqpSA7E_BLYOM5HsbNkv8Q&usqp=CAU"
+    },
+    {
+      "name": "rupom",
+      "age": "34",
+      "skill": "json",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScX81iGJmbbVX6IAB1yZOX6NUMk9ONN9Y2ouilGGzLgfA6DK2CSAEBdMknP_jI8WFyDyE&usqp=CAU",
+      "id": 6
+    }
+  ]
+}
